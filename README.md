@@ -1,2 +1,2 @@
 # Kill-Predictor
-A kill predictor for mush.vg
+Calcule les probabilités de réussir un meurtre sur le jeu mush.vg selon votre équipement, vos compétences, vos statistiques et ceux de votre cible.
