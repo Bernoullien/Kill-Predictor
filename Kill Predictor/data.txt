@@ -1,0 +1,24 @@
+Données - PA : 12 ; PV cible : 14 ; 
+Coups réussis : 8 ; Dégâts infligés : 13 ; Probabilité de meurtre réussi : 0.43049
+
+Données - PA : 12 ; PV cible : 14 ; Couteau, 
+Coups réussis : 8 ; Dégâts infligés : 18 ; Probabilité de meurtre réussi : 0.84778
+
+Données - PA : 12 ; PV cible : 14 ; Fuyant, Couteau, Armure, 
+Coups réussis : 7 ; Dégâts infligés : 8 ; Probabilité de meurtre réussi : 0.00570667
+
+Données - PA : 12 ; PV cible : 16 ; 
+Coups réussis : 8 ; Dégâts infligés : 13 ; Probabilité de meurtre réussi : 0.207473
+
+Données - PA : 12 ; PV cible : 16 ; Fuyant, Armure, 
+Coups réussis : 7 ; Dégâts infligés : 4 ; Probabilité de meurtre réussi : 0
+
+Données - PA : 12 ; PV cible : 16 ; Fuyant, Couteau, Armure, 
+Coups réussis : 7 ; Dégâts infligés : 8 ; Probabilité de meurtre réussi : 0
+
+Données - PA : 5 ; PV cible : 14 ; Couteau, 
+Coups réussis : 3 ; Dégâts infligés : 6 ; Probabilité de meurtre réussi : 0
+
+Données - PA : 5 ; PV cible : 14 ; Lutteur, 
+Coups réussis : 3 ; Dégâts infligés : 10 ; Probabilité de meurtre réussi : 0.485993
+
